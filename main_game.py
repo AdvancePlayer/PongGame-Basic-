@@ -114,12 +114,3 @@ while True:
         ball.dx *= -1
         os.system("afplay bounce.wav&") 
 
-
-
-
-
-
-# react = https://www.youtube.com/watch?v=SqcY0GlETPk
-# git and github version control
-# docker
-# turtle = https://www.youtube.com/watch?v=XGf2GcyHPhc
